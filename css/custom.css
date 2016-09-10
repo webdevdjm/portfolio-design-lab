@@ -15,9 +15,6 @@ p {
 
 .hero {
   background: url(../images/hero.jpg) no-repeat center top;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
   background-size: cover;
 }
 
@@ -62,9 +59,6 @@ h3 {
 
 .services {
   background: url("../images/services.jpg") no-repeat center top;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
   background-size: cover;
 }
 
@@ -105,10 +99,7 @@ ul.rig li {
   font-size: 16px;
   font-size: 1em;
   vertical-align: top;
- 
   box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
 }
 ul.rig li img {
   max-width: 100%;
@@ -127,7 +118,6 @@ ul.rig.columns-3 li {
 
 .button {
   background-color: #3c3c3c;
-  border-radius: none;
 }
 
 .footer {
